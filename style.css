@@ -5,7 +5,7 @@
 }
 
 .container{
-    margin-bottom:100px;
+    margin-bottom:50px;
     
 }
 
@@ -44,4 +44,26 @@
 }
 .get-started-btn:hover{
     background-color:#13c474;
+}
+
+
+.topic{
+    background-color: #F0FFF0;
+    border:none;
+    height: 85%;
+}
+.topic img{
+    margin-top: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0px;
+    height: 35%;
+    width: 35%;
+}
+.topic:hover{
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 0px 20px 20px 10px lightgray;
+    
+
 }
