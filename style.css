@@ -94,3 +94,17 @@
     background-color:#a1dba1;
     color: lightyellow;
 }
+
+.footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    
+    display: block  ;
+}
+
+.footer li{
+    list-style-type: none;
+}
