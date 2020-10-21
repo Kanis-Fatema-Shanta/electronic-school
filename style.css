@@ -88,3 +88,9 @@
 .testimonial{
     margin-top: 100px;
 }
+
+.submit-btn{
+    height: 200px;
+    background-color:#a1dba1;
+    color: lightyellow;
+}
